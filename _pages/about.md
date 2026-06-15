@@ -24,13 +24,26 @@ experiences:
     company: "University of Stuttgart, VISUS"
     dates: "Mar 2025 – Present"
     description: >
-      Developed tools for scientific visualization. Assisted in publications and academic projects.
+      Supervising students' thesis. Assisted in publications and academic projects.
 
-  - role: "Intern"
+  - role: "Internship in Computer Vision"
     company: "Sony Europe"
     dates: "Apr 2023 - Jul 2024"
     description: >
       Worked on real-time action recogition with multi-camera system and 3D reconstruction.
+
+education:
+  - degree: "Ph.D. in Visual Computing"
+    institution: "University of Stuttgart, Germany"
+    dates: "Mar 2025 – Present"
+    description: >
+      Advised by Alexander von Humboldt Prof. Dieter Schmalstieg at VISUS. Research focuses on 3D Computer Vision, Computer Graphcis and Diminished Reality.
+
+  - degree: "M.Sc. in Virtual Reality and Augmented Reality"
+    institution: "Lund University, Sweden"
+    dates: "Sep 2022 – Aug 2024"
+    description: >
+      Master's degree completed prior to Ph.D. enrollment.
 
 announcements:
   enabled: true # includes a list of news items
@@ -42,6 +55,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a first-year Ph.D. student advised by Alexander von Humboldt Prof. Dieter Schmalstieg at University of Stuttgart, Germany. Before I started my Ph.D., I finished my master in Lund University, Sweden. My research interests include 3D Computer vision, especially how real and virtual objects can be interacted with human in VR/AR/MR.
+I am a second-year Ph.D. student advised by Alexander von Humboldt Prof. Dieter Schmalstieg at University of Stuttgart, Germany. I am also associated with IMPRS-IS program as a research scholar. Before I started my Ph.D., I finished my master in Lund University, Sweden. My research interests include 3D Computer vision, especially how real and virtual objects can be interacted with human in VR/AR/MR.
 
-I am currently offering several master thesis in Generative AI and VR/AR. If you are interested deeply in scientific research and want to work with me. Please check [university page](https://www.visus.uni-stuttgart.de/en/team/Tian-00002/) for more information.
+I am always willing to supervise excellent student for their thesis or research project within topics of 3D Reconstruction, Real-Time Rendering, Generative AI and VR/AR. If you are interested deeply in scientific research and want to work with me. Please check [university page](https://www.visus.uni-stuttgart.de/en/team/Tian-00002/) for more information.
